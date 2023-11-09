@@ -125,8 +125,9 @@ me.rightNow();
   
   <summary><span style="font-size: 25px; font-weight: bold">✅ Certifications</span></summary>
 
-  <img alt="AWS Certified DevOps Engineer Professional" src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width=100 height=100>
-  <img alt="AWS Certified Developer Associate" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width=100 height=100>
-  <img alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width=100 height=100>
-  <img alt="HashiCorp Terraform Associate" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width=100 height=100>
+  <img alt="AWS Certified DevOps Engineer Professional" src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified Developer Associate" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified Cloud Practitioner" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="HashiCorp Terraform Associate" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="100" height="100" style="pointer-events: none;">
+
 </details>
