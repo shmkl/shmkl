@@ -127,9 +127,11 @@ me.rightNow();
 
 <img alt="AWS Certified Solutions Architect - Professional" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified DevOps Engineer - Professional" src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100" height="100" style="pointer-events: none;">
-<img alt="AWS Certified Security - Specialty" src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified Solutions Architect - Associate" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified Developer - Associate" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified SysOps Administrator - Associate" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified Cloud Practitioner - Foundational" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified Security - Specialty" src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="HashiCorp Terraform Associate" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="100" height="100" style="pointer-events: none;">
 
 </details>
