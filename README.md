@@ -121,7 +121,7 @@ me.rightNow();
   </p>
 </details>
 
-<details open>
+<details>
   
 <summary><span style="font-size: 25px; font-weight: bold">✅ Certifications</span></summary>
 
