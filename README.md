@@ -73,8 +73,10 @@ me.rightNow();
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat" alt="Amazon AWS Badge">
     <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat" alt="Google Cloud Badge">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat" alt="Microsoft Azure Badge">
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" alt="Azure DevOps Badge">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge">
     <img src="https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=flat" alt="AWS Lambda Badge">
+    <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat&logo=azure-functions&logoColor=white" alt="Azure Functions Badge">
     <img src="https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=flat" alt="Amazon EC2 Badge">
     <img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=fff&style=flat" alt="Amazon CloudWatch Badge">
     <img src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?logo=amazonsqs&logoColor=fff&style=flat" alt="Amazon SQS Badge">
@@ -133,5 +135,11 @@ me.rightNow();
 <img alt="AWS Certified Cloud Practitioner - Foundational" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified Security - Specialty" src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="HashiCorp Terraform Associate" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure Solutions Architect" src="https://github.com/shmkl/imgs/blob/main/misc/azure-solutions-architect-expert-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Windows Server Hybrid Administrator" src="https://github.com/shmkl/imgs/blob/main/misc/azure-windows-server-hybrid-administrator-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure Security Engineer" src="https://github.com/shmkl/imgs/blob/main/misc/azure-security-engineer-associate600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure Network Engineer" src="https://github.com/shmkl/imgs/blob/main/misc/azure-network-engineer-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure Administrator" src="https://github.com/shmkl/imgs/blob/main/misc/azure-administrator-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Fundamentals" src="https://github.com/shmkl/imgs/blob/main/misc/azure-fundamentals-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
 
 </details>
