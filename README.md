@@ -142,11 +142,16 @@ me.rightNow();
 
 <img alt="HashiCorp Terraform Associate" src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="100" height="100" style="pointer-events: none;">
 
-<img alt="MS Certified - Azure Solutions Architect" src="https://github.com/shmkl/imgs/blob/main/misc/azure-solutions-architect-expert-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
-<img alt="MS Certified - Windows Server Hybrid Administrator" src="https://github.com/shmkl/imgs/blob/main/misc/azure-windows-server-hybrid-administrator-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
-<img alt="MS Certified - Azure Security Engineer" src="https://github.com/shmkl/imgs/blob/main/misc/azure-security-engineer-associate600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
-<img alt="MS Certified - Azure Network Engineer" src="https://github.com/shmkl/imgs/blob/main/misc/azure-network-engineer-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
-<img alt="MS Certified - Azure Administrator" src="https://github.com/shmkl/imgs/blob/main/misc/azure-administrator-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
-<img alt="MS Certified - Fundamentals" src="https://github.com/shmkl/imgs/blob/main/misc/azure-fundamentals-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure Solutions Architect Expert" src="https://github.com/shmkl/imgs/blob/main/misc/azure-solutions-architect-expert-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Cybersecurity Architect Expert" src="https://github.com/shmkl/imgs/blob/main/misc/cybersecurity-architect-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Windows Server Hybrid Administrator Associate" src="https://github.com/shmkl/imgs/blob/main/misc/azure-windows-server-hybrid-administrator-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure Security Engineer Associate" src="https://github.com/shmkl/imgs/blob/main/misc/azure-security-engineer-associate600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure Network Engineer Associate" src="https://github.com/shmkl/imgs/blob/main/misc/azure-network-engineer-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure Administrator Associate" src="https://github.com/shmkl/imgs/blob/main/misc/azure-administrator-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Security Operations Analyst Associate" src="https://github.com/shmkl/imgs/blob/main/misc/security-operations-analyst-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Identity and Access Administrator Associate" src="https://github.com/shmkl/imgs/blob/main/misc/identity-and-access-administrator-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Information Protection and Compliance Administrator Associate" src="https://github.com/shmkl/imgs/blob/main/misc/information-protection-administrator-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure Fundamentals Fundamentals" src="https://github.com/shmkl/imgs/blob/main/misc/azure-fundamentals-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Azure AI Fundamentals" src="https://github.com/shmkl/imgs/blob/main/misc/azure-ai-fundamentals-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
 
 </details>
