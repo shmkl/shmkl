@@ -134,7 +134,7 @@ me.rightNow();
 <img alt="AWS Certified SysOps Administrator - Associate" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified Cloud Practitioner - Foundational" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified Security - Specialty" src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100" height="100" style="pointer-events: none;">
-<img alt="HashiCorp Terraform Associate" src="https://images.credly.com/size/680x680/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="HashiCorp Terraform Associate" src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="100" height="100" style="pointer-events: none;">
 <img alt="MS Certified - Azure Solutions Architect" src="https://github.com/shmkl/imgs/blob/main/misc/azure-solutions-architect-expert-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
 <img alt="MS Certified - Windows Server Hybrid Administrator" src="https://github.com/shmkl/imgs/blob/main/misc/azure-windows-server-hybrid-administrator-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
 <img alt="MS Certified - Azure Security Engineer" src="https://github.com/shmkl/imgs/blob/main/misc/azure-security-engineer-associate600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
