@@ -1,6 +1,6 @@
 <h1 align="center"><a href="https://github.com/shmkl">shmkl</a></h1>
 
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=shmkl.shmkl)](https://github.com/shmkl)
+[![visitors](https://img.shields.io/badge/visitors-👀-blue?style=flat)](https://github.com/shmkl)
 [![Website Badge](https://img.shields.io/badge/-website-white?style=flat&logo=google-chrome&logoColor=black)](https://itsmkl.com/)
 [![RSS Badge](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=flat)](https://itsmkl.com/rss.xml)
 
