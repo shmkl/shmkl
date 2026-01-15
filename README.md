@@ -131,10 +131,17 @@ me.rightNow();
 <img alt="AWS Certified DevOps Engineer - Professional" src="https://images.credly.com/size/680x680/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified Solutions Architect - Associate" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified Developer - Associate" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified Data Engineer – Associate" src="https://images.credly.com/size/340x340/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified Machine Learning Engineer – Associate" src="https://images.credly.com/size/340x340/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified SysOps Administrator - Associate" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified Cloud Practitioner - Foundational" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified AI Practitioner" src="https://images.credly.com/size/340x340/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="100" height="100" style="pointer-events: none;">
 <img alt="AWS Certified Security - Specialty" src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified Advanced Networking – Specialty" src="https://images.credly.com/size/340x340/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="100" height="100" style="pointer-events: none;">
+<img alt="AWS Certified Machine Learning – Specialty" src="https://images.credly.com/size/340x340/images/778bde6c-ad1c-4312-ac33-2fa40d50a147/image.png" width="100" height="100" style="pointer-events: none;">
+
 <img alt="HashiCorp Terraform Associate" src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="100" height="100" style="pointer-events: none;">
+
 <img alt="MS Certified - Azure Solutions Architect" src="https://github.com/shmkl/imgs/blob/main/misc/azure-solutions-architect-expert-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
 <img alt="MS Certified - Windows Server Hybrid Administrator" src="https://github.com/shmkl/imgs/blob/main/misc/azure-windows-server-hybrid-administrator-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
 <img alt="MS Certified - Azure Security Engineer" src="https://github.com/shmkl/imgs/blob/main/misc/azure-security-engineer-associate600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
