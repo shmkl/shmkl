@@ -70,19 +70,49 @@ output "current_focus" {
   <p>
     <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat" alt="Terraform Badge">
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat" alt="Amazon AWS Badge">
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat" alt="Google Cloud Badge">
     <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=fff&style=flat" alt="Microsoft Azure Badge">
-    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azure-devops&logoColor=white" alt="Azure DevOps Badge">
+    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff&style=flat" alt="Google Cloud Badge">
+    <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff&style=flat" alt="Azure DevOps Badge">
     <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat" alt="Cloudflare Badge">
+
     <img src="https://img.shields.io/badge/AWS%20Lambda-F90?logo=awslambda&logoColor=fff&style=flat" alt="AWS Lambda Badge">
-    <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=flat&logo=azure-functions&logoColor=white" alt="Azure Functions Badge">
+    <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azurefunctions&logoColor=fff&style=flat" alt="Azure Functions Badge">
     <img src="https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=flat" alt="Amazon EC2 Badge">
+    <img src="https://img.shields.io/badge/Amazon%20EKS-F90?logo=amazoneks&logoColor=fff&style=flat" alt="Amazon EKS Badge">
     <img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?logo=amazoncloudwatch&logoColor=fff&style=flat" alt="Amazon CloudWatch Badge">
     <img src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?logo=amazonsqs&logoColor=fff&style=flat" alt="Amazon SQS Badge">
     <img src="https://img.shields.io/badge/Amazon%20API%20Gateway-FF4F8B?logo=amazonapigateway&logoColor=fff&style=flat" alt="Amazon API Gateway Badge">
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat" alt="Kubernetes Badge">
-    <img src="https://img.shields.io/badge/Amazon%20EKS-F90?logo=amazoneks&logoColor=fff&style=flat" alt="Amazon EKS Badge">
+  </p>
+
+  <h3>🔐 Security / Monitoring / Incident</h3>
+
+  <p>
+     <!--Vulnerability / Exposure -->
+    <img src="https://img.shields.io/badge/Tenable-00B2A9?style=flat&logoColor=fff" alt="Tenable">
     
+     <!--On-call / Incident -->
+    <img src="https://img.shields.io/badge/PagerDuty-06AC38?style=flat&logo=pagerduty&logoColor=fff" alt="PagerDuty">
+    <img src="https://img.shields.io/badge/AlertOps-111111?style=flat&logoColor=fff" alt="AlertOps">
+    <img src="https://img.shields.io/badge/ConnectWise-111111?style=flat&logoColor=fff" alt="ConnectWise">
+
+     <!--Cloud Security Signals -->
+    <img src="https://img.shields.io/badge/AWS%20CloudTrail-232F3E?style=flat&logo=amazonaws&logoColor=fff" alt="CloudTrail">
+    <img src="https://img.shields.io/badge/AWS%20GuardDuty-232F3E?style=flat&logo=amazonaws&logoColor=fff" alt="GuardDuty">
+    <img src="https://img.shields.io/badge/AWS%20Security%20Hub-232F3E?style=flat&logo=amazonaws&logoColor=fff" alt="Security Hub">
+    <img src="https://img.shields.io/badge/AWS%20WAF-232F3E?style=flat&logo=amazonaws&logoColor=fff" alt="AWS WAF">
+    <img src="https://img.shields.io/badge/AWS%20KMS-232F3E?style=flat&logo=amazonaws&logoColor=fff" alt="AWS KMS">
+
+    <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=fff" alt="Sentinel">
+    <img src="https://img.shields.io/badge/Defender%20for%20Cloud-0078D4?style=flat&logo=microsoftazure&logoColor=fff" alt="Defender for Cloud">
+    <img src="https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=flat&logo=microsoftazure&logoColor=fff" alt="Key Vault">
+    <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat&logo=microsoftazure&logoColor=fff" alt="Entra ID">
+    <img src="https://img.shields.io/badge/Azure%20Policy-0078D4?style=flat&logo=microsoftazure&logoColor=fff" alt="Azure Policy">
+
+    <img src="https://img.shields.io/badge/GCP%20Security%20Command%20Center-4285F4?style=flat&logo=googlecloud&logoColor=fff" alt="SCC">
+    <img src="https://img.shields.io/badge/GCP%20Cloud%20KMS-4285F4?style=flat&logo=googlecloud&logoColor=fff" alt="Cloud KMS">
+    <img src="https://img.shields.io/badge/GCP%20Cloud%20Armor-4285F4?style=flat&logo=googlecloud&logoColor=fff" alt="Cloud Armor">
+  
   </p>
 
   <h3>🗄️ Databases</h3>
