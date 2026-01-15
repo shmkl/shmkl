@@ -6,26 +6,25 @@
 [![RSS Badge](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=fff&style=flat)](https://itsmkl.com/rss.xml)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1D9BF0?logo=twitter&logoColor=fff&style=flat)](https://www.twitter.com/_shmkl)
 
-```js
-class DevopsEngineer {
-  constructor() {
-    this.name = "mkl";
-    this.role = "DevOps Engineer";
-    this.languageSpoken = ["en_US", "kr_KR", "es_ES"];
-  }
+```hcl
+# shmkl.tf
 
-  sayHello() {
-    console.log("Hello and welcome! Thank you for stopping by.");
-  }
+locals {
+  name  = "shmkl"
+  role  = "Cloud Solutions Architect"
+  cloud = ["AWS", "Azure", "GCP"]
 
-  rightNow() {
-    console.log("I'm currently focused on Cloud Computing and IaC/IaaS.");
-  }
+  greeting = "Hello and welcome! Thanks for stopping by."
+  now      = "Right now I'm designing secure, scalable cloud solutions and helping teams ship them reliably."
 }
 
-const me = new DevopsEngineer();
-me.sayHello();
-me.rightNow();
+output "hello" {
+  value = local.greeting
+}
+
+output "current_focus" {
+  value = local.now
+}
 ```
 
 <details open>
