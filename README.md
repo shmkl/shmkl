@@ -161,7 +161,7 @@ output "current_focus" {
 <img alt="HashiCorp Terraform Associate" src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" width="100" height="100" style="pointer-events: none;">
 
 <img alt="MS Certified - Azure Solutions Architect Expert" src="https://github.com/shmkl/imgs/blob/main/misc/azure-solutions-architect-expert-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
-<img alt="MS Certified - Cybersecurity Architect Expert" src="https://github.com/shmkl/imgs/blob/main/misc/cybersecurity-architect-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
+<img alt="MS Certified - Cybersecurity Architect Expert" src="https://github.com/shmkl/imgs/blob/main/misc/cybersecurity-architect-expert-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
 <img alt="MS Certified - Windows Server Hybrid Administrator Associate" src="https://github.com/shmkl/imgs/blob/main/misc/azure-windows-server-hybrid-administrator-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
 <img alt="MS Certified - Azure Security Engineer Associate" src="https://github.com/shmkl/imgs/blob/main/misc/azure-security-engineer-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
 <img alt="MS Certified - Azure Network Engineer Associate" src="https://github.com/shmkl/imgs/blob/main/misc/azure-network-engineer-associate-600x600.png?raw=true" width="100" height="100" style="pointer-events: none;">
